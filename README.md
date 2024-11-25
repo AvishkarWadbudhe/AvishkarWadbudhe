@@ -1,4 +1,4 @@
-[![MasterHead](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fefvudwjgyrwa1.gif)]
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggoA-56brHtwKU9buNSqSdeDPbVpxsceTqMPlBRQ46Nw8Q1L8WwzSx3g3Qc1xzlJE1qTRKNsS89bO1_QmhzqgCLt7is3q0L7aBKulSbSP7OMwI9BsKg9JFtZyllkPL3taE10vvOVrA8PA/s0/new-curriculum-for-android-educators-social-v4.png)]
 <h1 align="center">Hi 👋, I'm Avishkar Wadbudhe</h1>
 <h3 align="center">A passionate Java developer</h3>
 <img align="right" alt"Hello" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
